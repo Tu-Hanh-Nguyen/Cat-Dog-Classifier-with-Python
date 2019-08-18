@@ -7,7 +7,7 @@ Week 4 - Wednesday
 - **Date:** Agust 19, 2019 10:00 AM (GMT+7)
 **Team Member:**
     - Mr. Hoa (Coder)
-    Contact:  <tu.hanh.nguyen@outlook.com>
+    Contact: 
 
     - Mr. Tu  (Coder)
 Contact:  <tu.hanh.nguyen@outlook.com>
